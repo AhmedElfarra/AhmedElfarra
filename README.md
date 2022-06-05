@@ -1,17 +1,20 @@
 ### Hi, I'm Ahmed 👋👋👋👋
-_Software Engineer at Hills Lab - Western University_
 
-Bachelors of Science - Double Major Computer Science and Applied Mathematics 
+👋🏽 I am a humble, hard-working, and a motivated individual that likes to challenge myself on a regular basis. I like to set goals in both my personal and professional life and then strive to accomplish them.
+
+🌇 I am currently located in Vancouver, BC, also a dual Citizen of Canada and USA. 
+
+📚 I am currently on the Frostbite engine systems team providing low-level, cross platform C/C++ technology to Frostbite and game teams across all of EA. 
+
+💻 I have previous experience working as a software engineer at Western University part of a research lab developing tools and ML/DL models. I was tasked to build the research lab website and oversaw the architecture and design of the full-stack application. I have lots of development experience working on both front-end and back-end development. 
+
+💪🏽 Python, C/C++, Java, JavaScript, SQL, and extensive experience in machine learning/deep learning. 
+
 
 ```javascript
 const elfarra = {
   Languages: [Python, C/C++, Javascript, Typescript, Java, PHP, SQL],
-  Tech-Stack: [React, Redux, Node, HTML/CSS, MongoDB, MySQL, PostgreSQL, Git, Docker, Kubernetes, QT,  Flask, Django, Angular, UNIX, Jira, AWS(EC2, S3, Lambda, Sagemaker), Hadoop, Terraform],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-<!--   I’m currently working on ...
-  I’m currently learning ...
-  I’m looking to collaborate on ...
-  I’m looking for help with ... -->
+  Tech-Stack: [Perforce, React, Node, HTML/CSS, MongoDB, MySQL, PostgreSQL, Git, Docker, Kubernetes, QT,  Flask, Django, Angular, UNIX, Jira, AWS, Hadoop],
 }
 ```
 Languages:   
@@ -31,19 +34,3 @@ Languages:
 [![Linkedin: Ahmed](https://img.shields.io/badge/-ahmed-elfarra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-elfarra/)](https://www.linkedin.com/in/ahmed-elfarra/) -->
 [![GitHub AhmedElfarra](https://img.shields.io/github/followers/AhmedElfarra?label=follow&style=social)](https://github.com/AhmedElfarra)
 
-
-
-<!--
-**AhmedElfarra/AhmedElfarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
