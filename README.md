@@ -13,8 +13,9 @@
 
 ```javascript
 const elfarra = {
-  Languages: [Python, C/C++, Javascript, Typescript, Java, PHP, SQL],
-  Tech-Stack: [Perforce, React, Node, HTML/CSS, MongoDB, MySQL, PostgreSQL, Git, Docker, Kubernetes, QT,  Flask, Django, Angular, UNIX, Jira, AWS, Hadoop],
+  Languages: [Python, C/C++, Java, Javascript, Typescript, SQL],
+  Tech-Stack: [Perforce, React, Node, HTML/CSS, MongoDB, MySQL, Git, Docker, Kubernetes, QT,  
+               Flask, Django, UNIX, AWS, Hadoop]
 }
 ```
 Languages:   
