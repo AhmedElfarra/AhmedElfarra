@@ -1,7 +1,5 @@
 ### Hi, I'm Ahmed 👋👋👋👋
 
-👋🏽 I am a hard-working, and a motivated individual that likes to challenge myself on a regular basis. I like to set goals in both my personal and professional life and then strive to accomplish them.
-
 🌇 I am currently located in Vancouver, BC, also a dual Citizen of Canada and USA. 
 
 📚 I am currently on the Frostbite engine systems team providing low-level, cross platform C/C++ technology to Frostbite and game teams across all of EA. 
