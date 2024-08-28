@@ -26,9 +26,6 @@ Languages:
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 
 <!-- Tech Stack: -->
-
-[![Ahmed Elfarra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedElfarra)](https://github.com/AhmedElfarra/github-readme-stats)
-
 <!-- 
 [![Linkedin: Ahmed](https://img.shields.io/badge/-ahmed-elfarra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-elfarra/)](https://www.linkedin.com/in/ahmed-elfarra/) -->
 [![GitHub AhmedElfarra](https://img.shields.io/github/followers/AhmedElfarra?label=follow&style=social)](https://github.com/AhmedElfarra)
