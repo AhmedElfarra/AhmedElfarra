@@ -1,6 +1,6 @@
 ### Hi, I'm Ahmed 👋👋👋👋
 
-🌇 I am currently located in Vancouver, BC, also a dual Citizen of Canada and USA. 
+🌇 Dual Citizen of Canada and USA. 
 
 📚 I am currently on the Frostbite engine systems team providing low-level, cross platform C/C++ technology to Frostbite and game teams across all of EA. 
 
